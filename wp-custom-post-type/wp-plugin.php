@@ -37,3 +37,4 @@ function wp_plugin_deactivate(){
 }
 
 register_deactivation_hook( __FILE__, 'wp_plugin_deactivate');
+
