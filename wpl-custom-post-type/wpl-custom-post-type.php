@@ -16,9 +16,9 @@ function wp_plugin_setup_post_type() {
 		array(
 			'labels'            =>
 				array(
-					'name' => __( 'Books' ),
+					'name'          => __( 'Books' ),
 					'singular_name' => __( 'Books' ),
-					'add_new_item' => __( 'Add New Book' ),
+					'add_new_item'  => __( 'Add New Book' ),
 				),
 			'public'            => false,
 			'show_ui'           => true,
