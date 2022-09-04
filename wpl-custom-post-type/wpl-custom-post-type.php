@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WP Custom Post Type
+ * Plugin Name: WPL Custom Post Type
  *
  * @package Wp Plugin Learning
  */
